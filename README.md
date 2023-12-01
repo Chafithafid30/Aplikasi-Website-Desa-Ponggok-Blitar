@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # Aplikasi Surat-Menyurat Berbasis Website Desa Ponggok, Kabupaten Blitar
-Aplikasi Surat-Menyurat Desa Ponggok Berbasis Website. Menggunakan Laravel, Tailwind CSS, PHP Mailer, RDBMS MySQL. Dimana didalamnya ada fitur: Halaman Pendaftaran Pemberkasan Surat, Halaman Admin, Halaman Lurah.
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
