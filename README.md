@@ -21,7 +21,10 @@ Village Head Dashboard:
 ![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Dashboard%20Lurah.png)
 
 List of Submission Letters from the Village Head:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Ajuan%20Lurah.png
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Ajuan%20Lurah.png)
+
+PASS All Unit Testing:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/4c2d4528a8ce68932c4f0e5bc5294e879cc62c6a/PASS%20All%20Unit%20Test.png)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
