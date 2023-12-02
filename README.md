@@ -1,5 +1,29 @@
 # Aplikasi Surat-Menyurat Berbasis Website Desa Ponggok, Kabupaten Blitar
 =======
+
+## Screenshots 📱 
+Filing Registration:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Pendaftaran%20Pemberkasan.png)
+
+Cpanel:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20cpanel.png)
+
+Admin Dashboard:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Dashboard%20Admin.png)
+
+Admin Section Letter Request List:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Ajuan%20Admin.png)
+
+List of Admin Section Letter Categories:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Kategori%20Admin.png)
+
+Village Head Dashboard:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Dashboard%20Lurah.png)
+
+List of Submission Letters from the Village Head:
+![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Ajuan%20Lurah.png
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
