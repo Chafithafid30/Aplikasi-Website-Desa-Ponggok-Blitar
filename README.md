@@ -1,7 +1,6 @@
 # Aplikasi Surat-Menyurat Berbasis Website Desa Ponggok, Kabupaten Blitar
-=======
 
-## Screenshots 📱 
+## Screenshots 🖥️ 
 Filing Registration:
 ![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Pendaftaran%20Pemberkasan.png)
 
