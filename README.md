@@ -38,6 +38,14 @@ This app uses [***MVC (Model View Controller)***] architecture.
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Steps to Run a Laravel Project:
+1. composer install
+2. Rename the .env.example file as .env
+3. type php artisan key:generate
+4. type php artisan migrate
+5. type php artisan db:seed
+6. run php artisan serve
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
