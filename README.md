@@ -25,6 +25,9 @@ List of Submission Letters from the Village Head:
 PASS All Unit Testing:
 ![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/4c2d4528a8ce68932c4f0e5bc5294e879cc62c6a/PASS%20All%20Unit%20Test.png)
 
+## Architecture 🗼
+
+This app uses [***MVC (Model View Controller)***] architecture.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -34,10 +37,6 @@ PASS All Unit Testing:
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## Architecture 🗼
-
-This app uses [***MVC (Model View Controller)***] architecture.
 
 ## About Laravel
 
