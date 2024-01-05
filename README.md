@@ -39,7 +39,7 @@ This app uses [***MVC (Model View Controller)***] architecture.
 </p>
 
 ## Steps to Run a Laravel Project:
-1. composer install
+1. type composer install
 2. Rename the .env.example file as .env
 3. type php artisan key:generate
 4. type php artisan migrate
